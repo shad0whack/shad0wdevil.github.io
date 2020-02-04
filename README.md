@@ -237,8 +237,7 @@ This recon process is from [0xpatrick subdomain enumeration workflow](https://0x
 - [ ] Test for Web Storage SQL injection  
 - [ ] Check CORS implementation  
 - [ ] Check Offline Web Application 
-- [ ]-INFO-001	Conduct Search Engine Discovery and Reconnaissance for Information Leakage	Use a search engine to search for Network diagrams and Configurations, Credentials, Error message content.	Google Hacking, Sitedigger, Shodan, FOCA, Punkspider	Not Started	
-- [ ]-INFO-002	Fingerprint Web Server	"Find the version and type of a running web server to determine known vulnerabilities and the appropriate exploits. Using
+- [ ] INFO-002	Fingerprint Web Server	"Find the version and type of a running web server to determine known vulnerabilities and the appropriate exploits. Using
 ""HTTP header field ordering"" and ""Malformed requests test""."	Httprint, Httprecon, Desenmascarame	Not Started	
 - [ ]-INFO-003	Review Webserver Metafiles for Information Leakage	Analyze robots.txt and identify <META> Tags from website.	Browser, curl, wget	Not Started	
 - [ ]-INFO-004	Enumerate Applications on Webserver	Find applications hosted in the webserver (Virtual hosts/Subdomain), non-standard ports, DNS zone transfers	Webhosting.info, dnsrecon, Nmap, fierce, Recon-ng, Intrigue	Not Started	
